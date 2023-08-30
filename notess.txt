@@ -3,3 +3,4 @@ cat git_notes.pub =>        oluşturulan ssh key(git_notes.pub) içeriğini okum
 
 
 değişiklik1
+değişiklik2
