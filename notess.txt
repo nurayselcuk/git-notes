@@ -1,2 +1,5 @@
 cd ~/.ssh && ssh-keygen  => local bilgisayarda ssh key oluşturmak için kullanılır.
 cat git_notes.pub =>        oluşturulan ssh key(git_notes.pub) içeriğini okumak için kullanılır.
+
+
+değişiklik1
